@@ -1,6 +1,10 @@
 {
 	"author":"Dimas Prasetyo",
+	"description": "Tes Package Json",
+	"keywords": ["freecodecamp","Tutorial","javascript"],
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
+	"version":"1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
